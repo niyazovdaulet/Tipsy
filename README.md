@@ -1,4 +1,4 @@
-## BMI Calculator
+## Tipsy
 An User-Experience Friendly Mobile Application for calculating the bill split between n people with x% tip.
 
 <p align="center">
